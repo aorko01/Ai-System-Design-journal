@@ -1,0 +1,3 @@
+[submodule "projects/1_ScorePredictor_web_app"]
+	path = projects/1_ScorePredictor_web_app
+	url = https://github.com/aorko01/ScorePredictor_web_app.git
