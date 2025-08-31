@@ -1,0 +1,1 @@
+from extras.importing_from_other_path import other_path_func
