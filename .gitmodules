@@ -1,9 +1,0 @@
-[submodule "projects/1_ScorePredictor_web_app"]
-	path = projects/1_ScorePredictor_web_app
-	url = https://github.com/aorko01/ML_project.git
-[submodule "projects/Smart-Library"]
-	path = projects/Smart-Library
-	url = https://github.com/aorko01/Smart-Library.git
-[submodule "Month_1/2.Learning_pytorch"]
-	path = Month_1/2.Learning_pytorch
-	url = https://github.com/aorko01/2.Learning_pytorch.git
