@@ -1,76 +1,68 @@
-# 🚀 AI Engineering & Infrastructure Journey
+# 🎯 ML Systems & AI Infrastructure - Learning Journal
 
-Welcome to my public journey into **AI Engineering** and **AI Infrastructure** — where I document everything I'm learning, building, and breaking down along the way.
-
----
-
-## 📚 What to Expect
-
-This repository contains:
-
-- 🔎 **Weekly logs** of my learning
-- 🧠 **Projects** built alongside new concepts
-- 🛠️ **Engineering insights** from working with AI systems
-- 📖 **Blogs and notes** for key topics I encounter
-- 🧩 **Math & Theory support** with external resources and personal takeaways
+> Documenting my journey into ML systems design and AI infrastructure as I prepare for production ML engineering roles.
 
 ---
 
-## 📌 Prerequisites (for anyone following along)
+## 🗂️ Learning Areas
 
-You don't need to be a math genius or a deep learning pro. This repo is created with accessibility in mind. You'll be comfortable here if you know:
+This journal is organized around core competencies needed for ML systems and AI infrastructure:
 
-- 🧮 Basic matrix operations (multiplication, transpose, etc.)
-- 📈 High-school level calculus, statistics, and probability
-- 💻 Some familiarity with Python
+### 🤖 **ML Systems**
+Building and scaling machine learning systems for production.
 
-> If I encounter any mathematical or theoretical barrier, I'll document how I overcame it — including:
-> - Resources I used
-> - What worked and what didn't
-> - Time-efficient learning tips
+- **[Training & Data Pipelines](./ML_systems/1.Training_and_data_pipeline/)** — Data processing, ETL, training orchestration
+- **[Inference Systems](./ML_systems/2.Inference_systems/)** — Serving models, latency optimization, scalability
+- **[Model Optimization](./ML_systems/3.Model_optimization/)** — Quantization, pruning, distillation, hardware optimization
 
----
+### 🏗️ **[Backend Engineering](./Backend/)**
+Core backend principles for ML services — APIs, databases, microservices
 
-## 🏗️ How I'm Structuring This
+### 🌐 **[Distributed Systems](./Distributed_systems/)**
+Distributed computing, consensus, fault tolerance, data sharding
 
-### 🗓️ Week-by-Week Learning Logs
-Each week I'll share what I've learned, links to external readings, personal notes, and reflection.
+### ⚙️ **[MLOps](./MLops/)**
+CI/CD for ML, experiment tracking, model registry, monitoring
 
-### 💡 Projects
-I believe in **learning by building** — so I'll be pairing most major topics with a relevant project. Expect:
-- Core algorithm implementations
-- Scalable MLOps pipelines
-- Cloud deployments
-- Infrastructure insights
-
-### ✍️ Blogs & Explanations
-I'll write short blogs when I feel a topic deserves a deeper dive — especially when it's something I initially struggled with.
+### ⚡ **[Performance Engineering](./Performance_Engineering/)**
+Profiling, caching, concurrency, systems optimization
 
 ---
 
-## 📎 Completed Courses
+## 📝 What's Inside
 
-✅ [Machine Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
-
-> Next up: Diving deeper into system design for ML, infrastructure, and real-world deployment challenges.
-
----
-
-## 🌱 Why I'm Doing This
-
-This is both:
-- A **learning-in-public** log for myself
-- A **guide for others** who want to become practical, project-focused AI engineers and infra contributors
-
-If you're on the same path — I hope this helps, saves you time, and maybe even inspires your next project!
+Each directory contains:
+- 📚 **Notes** — Key concepts, architectures, trade-offs
+- 💻 **Code** — Implementations, experiments, proof-of-concepts
+- 🔗 **Resources** — Papers, blogs, and references I found useful
+- 🧪 **Projects** — Hands-on builds applying what I've learned
 
 ---
 
-## 🧭 Want to Follow Along?
+## 🛤️ My Learning Path
 
-Star 🌟 the repo and check the [`/logs`](./logs) or [`/projects`](./projects) folders for weekly updates!
+**Foundation:**
+✅ Machine Learning Specialization (Andrew Ng)
 
-Let's learn, build, and scale AI — one step at a time.
+**Current Focus:**
+- System design for ML workloads
+- Building scalable inference pipelines
+- Understanding distributed training patterns
+- Infrastructure as code for ML systems
 
-—
-_Shahir Bin Zulfiker_
+---
+
+## 💭 Why This Format?
+
+This is my personal learning log — a way to:
+- Organize what I'm learning systematically
+- Track my progress and gaps
+- Build a reference I can return to
+- Document projects and experiments
+- Solidify understanding through writing
+
+If you're on a similar path, feel free to explore. This is primarily for me, but sharing publicly keeps me accountable.
+
+---
+
+_Last updated: March 2026_
